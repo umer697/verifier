@@ -1,0 +1,84 @@
+email,score,status,reason,valid_syntax,valid_mx,is_disposable,mailbox_exists,is_spam_trap
+baileysky@live.com,70,risky,,True,True,False,False,False
+gcjconstruction@live.com,70,risky,,True,True,False,False,False
+aggie79a@outlook.com,70,risky,,True,True,False,False,False
+dbaysinger@outlook.com,70,risky,,True,True,False,False,False
+taylorconstructionmanagement@outlook.com,70,risky,,True,True,False,False,False
+gordop@icloud.com,70,risky,,True,True,False,False,False
+sjp.archatelier@icloud.com,70,risky,,True,True,False,False,False
+steveschoonover@icloud.com,70,risky,,True,True,False,False,False
+tim.belcher44@icloud.com,70,risky,,True,True,False,False,False
+johnsmith@example.com,70,risky,,True,True,False,False,False
+bprinc@aol.com,70,risky,,True,True,False,False,False
+coast2coastinpa@aol.com,70,risky,,True,True,False,False,False
+dancos@aol.com,70,risky,,True,True,False,False,False
+hdeagle07@aol.com,70,risky,,True,True,False,False,False
+hotelplumber@aol.com,70,risky,,True,True,False,False,False
+leaf009@aol.com,70,risky,,True,True,False,False,False
+rlhwhit@aol.com,70,risky,,True,True,False,False,False
+rvdetail@aol.com,70,risky,,True,True,False,False,False
+u201c@aol.com,70,risky,,True,True,False,False,False
+markkrodel@hotmail.com.com,0,invalid,Disposable email,True,True,True,False,False
+notifications@closelyhq.com,80,valid,,True,True,False,False,False
+notifications@phantombuster.com,80,valid,,True,True,False,False,False
+support@phantombuster.com,70,risky,,True,True,False,False,False
+sales@aeroleads.com,80,valid,,True,True,False,False,False
+register@company.com,70,risky,,True,True,False,False,False
+you@company.com,70,risky,,True,True,False,False,False
+sales@contactout.com,80,valid,,True,True,False,False,False
+browardbuilder@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+burgess_7@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+ehay82@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+farevalo3@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+gatewaysv@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+gracemservice@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+john.daltorio@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+jose_l_ramos@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+rbarger919@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+www.regalremodel@hotmail.com,0,invalid,Disposable email,True,True,True,False,False
+support@growmeorganic.com,70,risky,,True,True,False,False,False
+todd.wellman@tpmechanical.com,80,valid,,True,True,False,False,False
+support@contactout.io,70,risky,,True,True,False,False,False
+security@deepseek.com,70,risky,,True,True,False,False,False
+service@deepseek.com,70,risky,,True,True,False,False,False
+bbecissa@yahoo.com,70,risky,,True,True,False,False,False
+bellone.peter@yahoo.com,70,risky,,True,True,False,False,False
+jbeckley333@yahoo.com,70,risky,,True,True,False,False,False
+jdbarnes61@yahoo.com,70,risky,,True,True,False,False,False
+jlsmod01@yahoo.com,70,risky,,True,True,False,False,False
+jonesclaude@yahoo.com,70,risky,,True,True,False,False,False
+josh_ehrle@yahoo.com,70,risky,,True,True,False,False,False
+lee1971c@yahoo.com,70,risky,,True,True,False,False,False
+m.maynard20@yahoo.com,70,risky,,True,True,False,False,False
+raycoplan@yahoo.com,70,risky,,True,True,False,False,False
+repainting@yahoo.com,70,risky,,True,True,False,False,False
+seutility7474@yahoo.com,70,risky,,True,True,False,False,False
+tfw-electric@yahoo.com,70,risky,,True,True,False,False,False
+toddwellman68@yahoo.com,70,risky,,True,True,False,False,False
+tpritchard58@yahoo.com,70,risky,,True,True,False,False,False
+vwright1101@yahoo.com,70,risky,,True,True,False,False,False
+www.terrybazen@yahoo.com,70,risky,,True,True,False,False,False
+wordpress@primetidings.com,80,valid,,True,True,False,False,False
+youraddress@yourcompany.com,80,valid,,True,True,False,False,False
+anfavor09@gmail.com,70,risky,,True,True,False,False,False
+buildersheatingcooling@gmail.com,70,risky,,True,True,False,False,False
+carpenterj37@gmail.com,70,risky,,True,True,False,False,False
+cccnetworkdallas@gmail.com,70,risky,,True,True,False,False,False
+cshvacrllc@gmail.com,70,risky,,True,True,False,False,False
+deemah.pulak@gmail.com,70,risky,,True,True,False,False,False
+gdempsey6056@gmail.com,70,risky,,True,True,False,False,False
+hire.cv700@gmail.com,70,risky,,True,True,False,False,False
+hvacquiz@gmail.com,70,risky,,True,True,False,False,False
+keith.arnett@gmail.com,70,risky,,True,True,False,False,False
+lcconexllc@gmail.com,70,risky,,True,True,False,False,False
+marccook44@gmail.com,70,risky,,True,True,False,False,False
+phfrank343@gmail.com,70,risky,,True,True,False,False,False
+prosportstransport@gmail.com,70,risky,,True,True,False,False,False
+richbrandt123@gmail.com,70,risky,,True,True,False,False,False
+skrappiopteltd@gmail.com,70,risky,,True,True,False,False,False
+snoviocom@gmail.com,70,risky,,True,True,False,False,False
+stevensplumbingac@gmail.com,70,risky,,True,True,False,False,False
+talentjobshub@gmail.com,70,risky,,True,True,False,False,False
+tmorrison380@gmail.com,70,risky,,True,True,False,False,False
+u201c@gmail.com,70,risky,,True,True,False,False,False
+unitedsanjacontractors@gmail.com,70,risky,,True,True,False,False,False
