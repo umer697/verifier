@@ -4,7 +4,6 @@ import os
 import uuid
 from flask_cors import CORS
 
-
 app = Flask(__name__)
 CORS(app)  # Allow all origins (for local testing)
 app.config['UPLOAD_FOLDER'] = 'temp_uploads'
@@ -15,8 +14,8 @@ os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 def home():
     return render_template("index.html")
 
-# API endpoint for verification
-@app.route('/verify', methods=['POST'])
+# Original bulk verification endpoint
+@app.route('/verify_bulk', methods=['POST'])
 def api_verify():
     if 'file' not in request.files:
         return jsonify({"error": "No file provided"}), 400
@@ -51,6 +50,23 @@ def api_verify():
         if os.path.exists(input_path):
             os.remove(input_path)
         return jsonify({"error": str(e)}), 500
+
+# New simple verification endpoint
+@app.route("/verify", methods=["POST"])
+def verify_emails():
+    if "file" not in request.files:
+        return jsonify({"error": "No file uploaded"}), 400
+
+    file = request.files["file"]
+    emails = file.read().decode("utf-8").splitlines()
+
+    # Simulate verification (replace with your actual logic)
+    results = []
+    for email in emails:
+        results.append({"email": email, "status": "valid"})  # Ensure this is an array!
+
+    print("Debug: API response:", results)  # Check the output in terminal
+    return jsonify(results)  # Send as JSON array
 
 @app.route('/download/<file_id>', methods=['GET'])
 def download(file_id):
